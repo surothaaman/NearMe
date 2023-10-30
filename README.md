@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![map1](https://github.com/surothaaman/NearMe/assets/133313653/e8dafa97-9ded-4c0c-bde5-7cf3dc25ae71)# Ex04 Places Around Me
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -190,12 +190,13 @@ sportsstadium.html
 
 
 ## OUTPUT
-![Alt text](map1.png)
-![Alt text](<Screenshot (70).png>)
-![Alt text](<Screenshot (71).png>)
-![Alt text](<Screenshot (72).png>)
-![Alt text](<Screenshot (73).png>)
-![Alt text](<Screenshot (74).png>)
+![map1](https://github.com/surothaaman/NearMe/assets/133313653/2c108091-f2b1-4277-affa-e507dface21d)
+![Screenshot (74)](https://github.com/surothaaman/NearMe/assets/133313653/4b26ab47-8ce1-48c4-a91c-9b528a4b867c)
+![Screenshot (73)](https://github.com/surothaaman/NearMe/assets/133313653/6130632c-ff19-490f-9706-fca3dd24d42c)
+![Screenshot (72)](https://github.com/surothaaman/NearMe/assets/133313653/c3bab5f4-6d1e-4dac-beb4-fa934a10e9d5)
+![Screenshot (71)](https://github.com/surothaaman/NearMe/assets/133313653/e1dcdb7d-99a4-45f9-bf7f-028f01688b6e)
+![Screenshot (70)](https://github.com/surothaaman/NearMe/assets/133313653/3e81b2f8-7690-48eb-b47c-d3907b2ce172)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
