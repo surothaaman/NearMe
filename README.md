@@ -1,4 +1,5 @@
-![map1](https://github.com/surothaaman/NearMe/assets/133313653/e8dafa97-9ded-4c0c-bde5-7cf3dc25ae71)# Ex04 Places Around Me
+# Ex04 Places Around Me
+
 
 ## AIM
 To develop a website to display details about the places around my house.
